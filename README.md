@@ -1,0 +1,2 @@
+# mygitreposity
+my first git
